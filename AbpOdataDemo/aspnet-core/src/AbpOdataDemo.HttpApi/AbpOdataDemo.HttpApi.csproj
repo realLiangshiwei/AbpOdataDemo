@@ -10,6 +10,7 @@
   <ItemGroup>
     <ProjectReference Include="..\AbpOdataDemo.Application.Contracts\AbpOdataDemo.Application.Contracts.csproj" />
     <ProjectReference Include="..\AbpOdataDemo.Domain\AbpOdataDemo.Domain.csproj" />
+    <ProjectReference Include="..\AbpOdataDemo.EntityFrameworkCore\AbpOdataDemo.EntityFrameworkCore.csproj" />
   </ItemGroup>
 
   <ItemGroup>
